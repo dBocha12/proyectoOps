@@ -1,10 +1,10 @@
 # 🧪 Proyecto InvOps
-
-ChatOps integrado con 3 funcionalidades, entre ellas:
-
 ## Integrantes
 * Daniel Bolanos Chaves
 * Ivnaia Miranda Chacon
+
+ChatOps integrado con 3 funcionalidades, entre ellas:
+
 
 ### Terraform:
 Modulo con dos comandos **tf** y **tf destroy** para poder crear y eliminar instacias usando Terraform en AWS.
