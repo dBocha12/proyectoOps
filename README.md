@@ -3,6 +3,7 @@
 * Daniel Bolanos Chaves
 * Ivnaia Miranda Chacon
 * Jeremy Ruiz Camacho
+* Jeremy Marin Hernandez
 
 ChatOps integrado con 3 funcionalidades, entre ellas:
 
