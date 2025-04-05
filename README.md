@@ -2,6 +2,7 @@
 ## Integrantes
 * Daniel Bolanos Chaves
 * Ivnaia Miranda Chacon
+* Jeremy Ruiz Camacho
 
 ChatOps integrado con 3 funcionalidades, entre ellas:
 
